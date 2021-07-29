@@ -2,9 +2,9 @@
 
 **Path:** training dataset/*
 
-**Tip:** The corresponding relationship between the number of nodes and the number of training samples is 1000 times. For example, the model of 10 nodes is trained with 10,000 training samples.
+**Tips:** The corresponding relationship between the number of nodes and the number of training samples is 1000 times. For example, the model of 10 nodes is trained with 10,000 training samples.
 
-**explanation of each idex:**
+**Explanation of each index:**
 
 |  Name |              Feature              |                             Explanation                            |        Type       |
 |:-----:|:---------------------------------:|:------------------------------------------------------------------:|:-----------------:|
